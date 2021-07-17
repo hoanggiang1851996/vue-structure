@@ -1,0 +1,122 @@
+.text-center {
+  text-align: center;
+}
+
+.text-bold {
+  font-weight: bold;;
+}
+
+.mt-25 {
+  margin-top: 25px;
+}
+
+.container-content {
+
+}
+
+.header-content {
+  padding: 16px 24px;
+  font-size: 18px;
+  color: rgba(0,0,0,.85);
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.body-content {
+  padding: 24px;
+}
+
+.tag-active {
+  border: none;
+  background: #4dbd74;
+  color: #fff;
+}
+
+.tag-inactive {
+  border: none;
+  background: #f86c6b;
+  color: #fff;
+}
+
+.btn-default, .btn-default:active, .btn-default:visited, .btn-default:focus {
+  background-color: #02bc77;
+  border-color: #02bc77;
+  color: #fff;
+}
+
+.btn-default:hover {
+  background-color: #02b371;
+  border-color: #02b371;
+}
+
+.btn-default:active {
+  background-color: #02a468;
+  border-color: #02a468;
+}
+
+.ant-select-focused .ant-select-selection, .ant-select-selection:focus, .ant-select-selection:active {
+  border-color: #01904a;
+  box-shadow: 0 0 0 2px #00904a38;
+}
+
+.ant-select-selection:hover {
+  border-color: #01904a;
+}
+
+.ant-input:focus {
+  border-color: #01904a;
+  box-shadow: 0 0 0 2px #00904a38;
+}
+
+.ant-input:hover {
+  border-color: #01904a;
+}
+
+.ant-form-explain {
+  text-align: left;
+}
+
+.ant-select-dropdown-menu-item-active:not(.ant-select-dropdown-menu-item-disabled),
+.ant-select-dropdown-menu-item:hover:not(.ant-select-dropdown-menu-item-disabled) {
+  background-color: #eafff4;
+}
+
+.ant-layout-content {
+  padding: 0 !important;
+}
+
+.ant-form-item-label {
+  color: #183247;
+  font-weight: 500;
+  padding: 0 !important;
+}
+
+.ant-table-thead > tr.ant-table-row-hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+.ant-table-tbody > tr.ant-table-row-hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+.ant-table-thead > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+.ant-table-tbody > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td {
+  background: #eafff4;
+}
+
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+  padding: 8px 16px;
+}
+
+.ant-table table {
+  color: #212121;
+}
+
+.ant-pagination-item-active {
+  border-color: #02bc77 !important;
+  border-radius: 50%;
+  background: #02bc77;
+}
+
+.ant-pagination-item a {
+  color: #fff !important;
+}
+
+.ant-pagination-item-link {
+  border-radius: 50% !important;
+}
+
+
